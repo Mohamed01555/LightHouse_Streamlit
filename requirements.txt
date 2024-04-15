@@ -2,3 +2,4 @@ deepface
 numpy
 Pillow
 streamlit
+opencv-python
