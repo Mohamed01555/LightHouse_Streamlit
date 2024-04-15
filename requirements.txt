@@ -2,4 +2,4 @@ deepface
 numpy
 Pillow
 streamlit
-opencv-python
+opencv-python-headless
